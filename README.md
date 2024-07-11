@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Duweilin
-- 👀 Junior high school student in China
+- 👀 Junior high school student
 - 🌱 Programming for fun!
 - 💞️ I’m looking to collaborate on some attack framework
 - 📫 Reach me on 1372449351@qq.com
