@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Duweilin
+- 👋 Hi, I’m @LamentXU
 - 👀 Junior high school student
 - 🌱 Programming for fun!
 - 💞️ I’m looking to collaborate on some attack framework
